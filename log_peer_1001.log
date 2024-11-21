@@ -1,0 +1,74 @@
+2023-12-03 11:19:36: Peer 1001 is started
+2023-12-03 11:20:13: Peer 1001 is connected from Peer 1002
+2023-12-03 11:20:13: Peer 1001 Received a HANDSHAKE message from Peer 1002
+2023-12-03 11:20:13: Peer 1001 HANDSHAKE message has been sent successfully.
+2023-12-03 11:20:14: Peer 1001 received a BITFIELD message from Peer 1002
+2023-12-03 11:20:14: Peer 1001 sending a BITFIELD message to Peer 1002
+2023-12-03 11:20:15: Peer 1001 receieved an INTERESTED message from Peer 1002
+2023-12-03 11:20:15: Peer 1001 sending a UNCHOKE message to Peer 1002
+2023-12-03 11:20:15: Peer 1001 sending a PIECE message for piece 0 to peer 1002
+2023-12-03 11:20:16: Peer 1001 sending a PIECE message for piece 1 to peer 1002
+2023-12-03 11:20:17: Peer 1001 is connected from Peer 1004
+2023-12-03 11:20:17: Peer 1001 Received a HANDSHAKE message from Peer 1004
+2023-12-03 11:20:17: Peer 1001 HANDSHAKE message has been sent successfully.
+2023-12-03 11:20:17: Peer 1001 received a BITFIELD message from Peer 1004
+2023-12-03 11:20:17: Peer 1001 sending a BITFIELD message to Peer 1004
+2023-12-03 11:20:17: Peer 1001 sending a PIECE message for piece 2 to peer 1002
+2023-12-03 11:20:17: Peer 1001 receieved an INTERESTED message from Peer 1004
+2023-12-03 11:20:17: Peer 1001 sending a UNCHOKE message to Peer 1004
+2023-12-03 11:20:18: Peer 1001 is connected from Peer 1003
+2023-12-03 11:20:18: Peer 1001 Received a HANDSHAKE message from Peer 1003
+2023-12-03 11:20:18: Peer 1001 HANDSHAKE message has been sent successfully.
+2023-12-03 11:20:18: Peer 1001 received a BITFIELD message from Peer 1003
+2023-12-03 11:20:18: Peer 1001 sending a BITFIELD message to Peer 1003
+2023-12-03 11:20:18: Peer 1001 sending a PIECE message for piece 0 to peer 1004
+2023-12-03 11:20:18: Peer 1001 sending a PIECE message for piece 3 to peer 1002
+2023-12-03 11:20:19: Peer 1001 receieved an INTERESTED message from Peer 1003
+2023-12-03 11:20:19: Peer 1001 sending a UNCHOKE message to Peer 1003
+2023-12-03 11:20:19: Peer 1001 sending a PIECE message for piece 4 to peer 1002
+2023-12-03 11:20:19: Peer 1001 sending a PIECE message for piece 1 to peer 1004
+2023-12-03 11:20:19: Peer 1001 sending a PIECE message for piece 0 to peer 1003
+2023-12-03 11:20:20: Peer 1001 sending a PIECE message for piece 5 to peer 1002
+2023-12-03 11:20:20: Peer 1001 sending a PIECE message for piece 2 to peer 1004
+2023-12-03 11:20:20: Peer 1001 sending a PIECE message for piece 1 to peer 1003
+2023-12-03 11:20:20: Peer 1001 sending a PIECE message for piece 6 to peer 1002
+2023-12-03 11:20:21: Peer 1001 sending a PIECE message for piece 3 to peer 1004
+2023-12-03 11:20:21: Peer 1001 sending a PIECE message for piece 2 to peer 1003
+2023-12-03 11:20:21: Peer 1001 sending a PIECE message for piece 7 to peer 1002
+2023-12-03 11:20:21: Peer 1001 sending a PIECE message for piece 4 to peer 1004
+2023-12-03 11:20:21: Peer 1001 sending a PIECE message for piece 3 to peer 1003
+2023-12-03 11:20:21: Peer 1001 has selected the preferred neighbors - 1004
+2023-12-03 11:20:22: Peer 1001 sending a PIECE message for piece 8 to peer 1002
+2023-12-03 11:20:22: Peer 1001 sending a CHOKE message to Peer 1002
+2023-12-03 11:20:22: Peer 1001 sending a PIECE message for piece 5 to peer 1004
+2023-12-03 11:20:22: Peer 1001 sending a PIECE message for piece 4 to peer 1003
+2023-12-03 11:20:22: Peer 1001 sending a CHOKE message to Peer 1003
+2023-12-03 11:20:23: Peer 1001 sending a PIECE message for piece 6 to peer 1004
+2023-12-03 11:20:24: Peer 1001 sending a PIECE message for piece 7 to peer 1004
+2023-12-03 11:20:24: Peer 1001 sending a PIECE message for piece 8 to peer 1004
+2023-12-03 11:20:25: Peer 1001 sending a PIECE message for piece 9 to peer 1004
+2023-12-03 11:20:25: Peer 1001 sending a PIECE message for piece 10 to peer 1004
+2023-12-03 11:20:26: Peer 1001 sending a UNCHOKE message to Peer 1002
+2023-12-03 11:20:26: Peer 1001 has the optimistically unchoked neighbor 1002
+2023-12-03 11:20:26: Peer 1001 has selected the preferred neighbors - 1002
+2023-12-03 11:20:26: Peer 1001 sending a UNCHOKE message to Peer 1002
+2023-12-03 11:20:26: Peer 1001 sending HAVE message to Peer 1002
+2023-12-03 11:20:26: Peer 1004 has downloaded the complete file
+2023-12-03 11:20:27: Peer 1001 receieved an INTERESTED message from Peer 1002
+2023-12-03 11:20:27: Peer 1001 sending a UNCHOKE message to Peer 1002
+2023-12-03 11:20:27: Peer 1001 sending a PIECE message for piece 8 to peer 1002
+2023-12-03 11:20:28: Peer 1001 sending a PIECE message for piece 9 to peer 1002
+2023-12-03 11:20:29: Peer 1001 sending a PIECE message for piece 10 to peer 1002
+2023-12-03 11:20:30: Peer 1002 has downloaded the complete file
+2023-12-03 11:20:31: Peer 1001 sending a UNCHOKE message to Peer 1003
+2023-12-03 11:20:31: Peer 1001 has selected the preferred neighbors - 1003
+2023-12-03 11:20:32: Peer 1001 receieved an INTERESTED message from Peer 1003
+2023-12-03 11:20:32: Peer 1001 sending a UNCHOKE message to Peer 1003
+2023-12-03 11:20:32: Peer 1001 sending a PIECE message for piece 6 to peer 1003
+2023-12-03 11:20:33: Peer 1001 sending a PIECE message for piece 7 to peer 1003
+2023-12-03 11:20:34: Peer 1001 sending a PIECE message for piece 8 to peer 1003
+2023-12-03 11:20:34: Peer 1001 sending a PIECE message for piece 9 to peer 1003
+2023-12-03 11:20:35: Peer 1001 sending a PIECE message for piece 10 to peer 1003
+2023-12-03 11:20:35: Peer 1003 has downloaded the complete file
+2023-12-03 11:20:36: Peer All peers have completed downloading the file.
+2023-12-03 11:20:41: Peer 1001 Peer process is exiting..
